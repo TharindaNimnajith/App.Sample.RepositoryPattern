@@ -1,0 +1,1 @@
+# App.Sample.RepositoryPattern
